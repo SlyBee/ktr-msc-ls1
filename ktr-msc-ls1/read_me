@@ -1,3 +1,3 @@
 Hello,
-Import the database then put your db credentials in utils/db_connect.
+Import the ktr-msc-ls1.sql file  then put your db credentials in utils/db_connect.
 Thank you
